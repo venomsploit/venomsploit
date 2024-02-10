@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Crypto And 0day Exploits**
 
-- 👨‍💻 All of my projects are available at [https://t.me/v3t4l1](t.me/v3t4l1)
+- 👨‍💻 All of my projects are available at [t.me/v3t4l1](t.me/v3t4l1)
 
 - 💬 Ask me about **python,0day,rce,shell,cpanel,Bug Hunt,C**
 
