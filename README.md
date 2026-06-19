@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **python,0day,rce,shell,cpanel,Bug Hunt,C**
 
-- 📫 How to reach me **exploitpatch@gmail.com**
-
 - ⚡ Fun fact **I am watching One Piece Now**
 
 <h3 align="left">Connect with me:</h3>
